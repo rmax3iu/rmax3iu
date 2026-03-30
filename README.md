@@ -12,17 +12,24 @@ In my free time, I like swimming and playing football. <br>
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## I'm familiar with
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,python,java" alt="HTML, CSS, JS, C, C#, C++, Python, Java" />
+<img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, C#" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,vim,gitlab" alt="Visual Studio, VS Code, IntelliJ, Vim, GitLab" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode" alt="Visual Studio, VS Code" />
+
+
+## I also know / use
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,c,python,java" alt="JS, C, Python, Java" />
+
+### Tools & Environment
+<img src="https://skillicons.dev/icons?i=idea,vim,gitlab" alt="IntelliJ, Vim, GitLab" />
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          CONTACT                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## Contact
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-<img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                          | -->
