@@ -21,13 +21,8 @@ In my free time, I like swimming and playing football. <br>
 <!-- |                                          CONTACT                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## Contact
-<a href="mailto:ton@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-
-<a href="https://discord.com/users/TON_ID">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+<img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                          | -->
