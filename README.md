@@ -33,6 +33,7 @@ In my free time, I like swimming and playing football. <br>
 <a href="mailto:peignierm@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
+
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
