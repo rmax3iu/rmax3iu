@@ -10,7 +10,7 @@ In my free time, I like swimming and playing football. <br>
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          SKILLS                                           | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
-## I'm familiar with
+## 🛠️ I'm familiar with
 ### Languages
 <img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, C#" />
 
@@ -18,18 +18,18 @@ In my free time, I like swimming and playing football. <br>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode" alt="Visual Studio, VS Code" />
 
 
-## I also know / use
+## 📚 I also know / use
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=js,c,python,java" alt="JS, C, Python, Java" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=idea,vim,gitlab" alt="IntelliJ, Vim, GitLab" />
+<img src="https://skillicons.dev/icons?i=idea,vim,gitlab,github" alt="IntelliJ, Vim, GitLab, GitHub" />
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          CONTACT                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
-## Contact
+## 📬 Contact
 <a href="mailto:peignierm@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
@@ -37,7 +37,12 @@ In my free time, I like swimming and playing football. <br>
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
-## My Projects
+## 📂 Mes Projets
+* ### 🌊 [Maritime Booking System](https://github.com/AgentOutsiders/maritime-booking-system)
+  > <div align="justify"> Projet de 1ère année de BUT Informatique réalisé en binôme avec Alexis Danrée. Application de réservation maritime composée d'une part d'une console C# pour la gestion des billets et véhicules et d'autre part d'un site web affichant cartes d'embarquement, les QR codes et les factures.</div>
+
+* ### 💥 [MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/MIPS32-Battleship-Simulation)
+  > <div align="justify"> Projet de 1ère année de BUT Informatique réalisé en binôme avec Alexis Danrée. Simulation de la Bataille Navale entièrement codée en assembleur MIPS32, avec placement aléatoire des bateaux, algorithme de chasse récursif pour couler les navires et visualisation ASCII en temps réel.</div>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          FOOTER                                           | -->
