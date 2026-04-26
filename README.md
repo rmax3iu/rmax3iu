@@ -12,14 +12,16 @@ In my free time, I like swimming and playing football. <br>
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 🛠️ I'm familiar with
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, C#" />
+<img src="https://skillicons.dev/icons?i=html,css,cs,dotnet" alt="HTML, CSS, C#, .NET" />
 
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode" alt="Visual Studio, VS Code" />
 
+### Database
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+
 
 ## 📚 I also know / use
-
 ### Languages
 <img src="https://skillicons.dev/icons?i=js,c,python,java" alt="JS, C, Python, Java" />
 
