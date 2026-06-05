@@ -17,8 +17,23 @@
 
 Étudiant en première année de BUT Informatique à l'IUT Robert Schuman, Illkirch.<br>
 J'ai 18 ans et j'aime coder et construire des choses.<br>
-Dans mon temps libre, j'aime nager et jouer au football.<br>
-En ce moment, j'apprends JavaFX dans l'optique de créer un jeu.<br>
+Dans mon temps libre, j'aime faire de la natation et jouer au football.<br>
+<br>
+Le développement web m'attire particulièrement pour son côté visuel.<br>
+J'aime aussi recoder des jeux existants pour comprendre comment ils fonctionnent.<br>
+Je crée également des applications desktop quand le projet s'y prête.<br>
+<br>
+
+<!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                       CURRENTLY                                           | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+
+## 🔭 En ce moment
+
+```text
+J'apprends JavaFX dans l'optique de créer un jeu.
+Je vais aussi commencer à apprendre Godot prochainement.
+```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          SKILLS                                           | -->
