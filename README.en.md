@@ -17,8 +17,23 @@
 
 I'm a first-year Computer Science student at IUT Robert Schuman, Illkirch.<br>
 I'm 18 years old and I enjoy coding and building things.<br>
-In my free time, I like swimming and playing football.<br>
-I'm currently learning JavaFX with a view to designing a game.<br>
+In my free time, I swim and play football.<br>
+<br>
+Web development is what I enjoy the most, especially for its visual side.<br>
+I also like to recode existing games to understand how they work.<br>
+I build desktop applications too, when the project calls for it.<br>
+<br>
+
+<!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                       CURRENTLY                                           | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+
+## 🔭 Currently
+
+```text
+I'm learning JavaFX to create a game.
+I'm also going to start learning Godot soon.
+```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          SKILLS                                           | -->
