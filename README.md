@@ -83,7 +83,7 @@ Je vais aussi commencer à apprendre Godot prochainement.
 * ### 👽 [Jeu_de_gestion_Stargate](https://github.com/rmax3iu/Jeu_de_gestion_Stargate)
   > <div align="justify"> Prochainement ... </div>
 
-* ### 🔮 [Jeu_de_carte_Inscrytpion](https://github.com/rmax3iu/Jeu_de_carte_Inscryptionœ)
+* ### 🔮 [Jeu_de_carte_Inscrytpion](https://github.com/rmax3iu/Jeu_de_carte_Inscryption)
   > <div align="justify"> Prochainement ... </div>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
