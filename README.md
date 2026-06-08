@@ -65,9 +65,25 @@ Je vais aussi commencer à apprendre Godot prochainement.
 <!-- |                                          CONTACT                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 📬 Contact
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1091957675455152139)
 <a href="mailto:peignierm@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
 </a>
+
+<!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                       STATISTIQUES                                        | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+ 
+## 📊 Mes statistiques GitHub
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rmax3iu&color=ff7700&style=for-the-badge&label=VUES+DU+PROFIL" alt="Vues du profil"/>
+</p>
+<p align="center">
+  <a href="https://github.com/rmax3iu">
+    <img src="https://streak-stats.demolab.com/?user=rmax3iu&theme=cyberpunk&hide_border=true" alt="GitHub Streak de Maxime"/>
+  </a>
+</p>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                           | -->
