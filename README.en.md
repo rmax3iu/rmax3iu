@@ -80,12 +80,6 @@ I'm also going to start learning Godot soon.
 * ### 💥 [MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/MIPS32-Battleship-Simulation)
   > <div align="justify">First-year BUT Computer Science project built in pair with Alexis Danrée. A Battleship simulation written entirely in MIPS32 assembly, featuring random ship placement, a recursive hunting algorithm to sink ships, and real-time ASCII visualization.</div>
 
-* ### 👽 [Jeu_de_gestion_Stargate](https://github.com/rmax3iu/Jeu_de_gestion_Stargate)
-  > <div align="justify"> Coming soon ... </div>
-
-* ### 🔮 [Jeu_de_carte_Inscrytpion](https://github.com/rmax3iu/Jeu_de_carte_Inscryption)
-  > <div align="justify"> Coming soon ... </div>
-
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          FOOTER                                           | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
