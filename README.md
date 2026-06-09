@@ -84,6 +84,9 @@ Je vais aussi commencer à apprendre Godot prochainement.
     <img src="https://streak-stats.demolab.com/?user=rmax3iu&theme=cyberpunk&hide_border=true" alt="GitHub Streak de Maxime"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmax3iu&bg_color=ffffff&color=000000&line=ff7700&point=555555&area=true&area_color=ffe8d6&hide_border=true&custom_title=Activite+de+Maxime" width="85%" alt="Graphique d'activité"/>
+</p>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                           | -->
