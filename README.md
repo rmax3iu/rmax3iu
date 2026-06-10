@@ -88,6 +88,13 @@ Je vais aussi commencer à apprendre Godot prochainement.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmax3iu&bg_color=ffffff&color=000000&line=ff7700&point=555555&area=true&area_color=ffe8d6&hide_border=true&custom_title=Activite+de+Maxime" width="85%" alt="Graphique d'activité"/>
 </p>
 
+<h4 align="center">Mes langages les plus utilisés</h4>
+<div align="center">
+  <a href="https://github.com/rmax3iu">
+    <img height="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&langs_count=20&bg_color=ffffff&text_color=000000&hide_title=true&hide_border=true&cache_seconds=21601" />
+  </a>
+</div>
+
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                           | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
