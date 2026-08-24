@@ -21,7 +21,6 @@ In my free time, I swim and play football.<br>
 <br>
 Web development is what I enjoy the most, especially for its visual side.<br>
 I also like to recode existing games to understand how they work.<br>
-I build desktop applications too, when the project calls for it.<br>
 <br>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
@@ -31,8 +30,9 @@ I build desktop applications too, when the project calls for it.<br>
 ## 🔭 Currently
 
 ```text
-I'm learning JavaFX to create a game.
-I'm also going to start learning Godot soon.
+I'm trying to learn JavaFX.
+I'm learning Godot with the goal of creating my own game.
+I am currently creating a personal website about the Les Gets ski resort.
 ```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
