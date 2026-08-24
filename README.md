@@ -21,7 +21,6 @@ Dans mon temps libre, j'aime faire de la natation et jouer au football.<br>
 <br>
 Le développement web m'attire particulièrement pour son côté visuel.<br>
 J'aime aussi recoder des jeux existants pour comprendre comment ils fonctionnent.<br>
-Je crée également des applications desktop quand le projet s'y prête.<br>
 <br>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
