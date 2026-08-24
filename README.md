@@ -31,8 +31,8 @@ Je crée également des applications desktop quand le projet s'y prête.<br>
 ## 🔭 En ce moment
 
 ```text
-J'apprends JavaFX dans l'optique de créer un jeu.
-Je vais aussi commencer à apprendre Godot prochainement.
+J'essaye d'apprendre JavaFX.
+J'apprends Godot dans l'optique de créer mon jeu.
 ```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
