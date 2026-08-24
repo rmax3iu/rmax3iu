@@ -33,6 +33,7 @@ Je crée également des applications desktop quand le projet s'y prête.<br>
 ```text
 J'essaye d'apprendre JavaFX.
 J'apprends Godot dans l'optique de créer mon jeu.
+Je suis en train de créer un site web personnel sur la station de ski Les Gets.
 ```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
