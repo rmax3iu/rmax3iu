@@ -2,11 +2,11 @@
 <!-- |                                         LANGUAGE                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 <div align="right">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇫🇷 Français-555555?style=for-the-badge" alt="Français"/>
+  <a href="README.fr.md">
+    <img src="https://img.shields.io/badge/🇫🇷 Français-1e3a5f?style=for-the-badge" alt="Français"/>
   </a>
   <a href="README.en.md">
-    <img src="https://img.shields.io/badge/🇬🇧 English-1e3a5f?style=for-the-badge" alt="English"/>
+    <img src="https://img.shields.io/badge/🇬🇧 English-555555?style=for-the-badge" alt="English"/>
   </a>
 </div>
 
@@ -15,12 +15,12 @@
 <!-- |-------------------------------------------------------------------------------------------| -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2e6da4,100:4a9eda&text=Hi,+I'm+Maxime&height=200&fontSize=40&fontColor=ffffff" width="100%"/>
 
-I'm a first-year Computer Science student at IUT Robert Schuman, Illkirch.<br>
-I'm 18 years old and I enjoy coding and building things.<br>
-In my free time, I swim and play football.<br>
+First-year student in the BUT Computer Science program at IUT Robert Schuman, Illkirch.<br>
+I'm 18 years old and I love coding and building things.<br>
+In my free time, I enjoy swimming and playing football.<br>
 <br>
-Web development is what I enjoy the most, especially for its visual side.<br>
-I also like to recode existing games to understand how they work.<br>
+I'm particularly drawn to web development for its visual side.<br>
+I also like recreating existing games to understand how they work.<br>
 <br>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
@@ -32,14 +32,14 @@ I also like to recode existing games to understand how they work.<br>
 ```text
 I'm trying to learn JavaFX.
 I'm learning Godot with the goal of creating my own game.
-I am currently creating a personal website about the Les Gets ski resort.
+I'm building a personal website for the Les Gets ski resort.
 ```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          SKILLS                                           | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 
-## 💻 I'm familiar with
+## 💻 Languages I master
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -65,9 +65,37 @@ I am currently creating a personal website about the Les Gets ski resort.
 <!-- |                                          CONTACT                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 📬 Contact
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1091957675455152139)
 <a href="mailto:peignierm@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
 </a>
+
+<!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                       STATISTICS                                          | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+ 
+## 📊 My GitHub statistics
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rmax3iu&color=ff7700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+<p align="center">
+  <a href="https://github.com/rmax3iu">
+    <img src="https://streak-stats.demolab.com/?user=rmax3iu&theme=cyberpunk&hide_border=true" alt="Maxime's GitHub Streak"/>
+  </a>
+</p>
+
+<h4 align="center">My most used languages</h4>
+<div align="center">
+  <a href="https://github.com/rmax3iu">
+    <img height="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&langs_count=20&bg_color=ffffff&text_color=000000&hide_title=true&hide_border=true&cache_seconds=0" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmax3iu&bg_color=ffffff&color=000000&line=ff7700&point=555555&area=true&area_color=ffe8d6&hide_border=true&custom_title=Maxime's+Activity" width="85%" alt="Activity graph"/>
+</p>
+
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                           | -->
@@ -75,10 +103,10 @@ I am currently creating a personal website about the Les Gets ski resort.
 ## 📂 My Projects
 
 * ### 🌊 [Maritime Booking System](https://github.com/AgentOutsiders/maritime-booking-system)
-  > <div align="justify">First-year BUT Computer Science project built in pair with Alexis Danrée. A maritime booking application consisting of a C# console for managing tickets and vehicles, and a website displaying boarding passes, QR codes and invoices.</div>
+  > <div align="justify">First-year BUT Computer Science project done in pairs with Alexis Danrée. Maritime booking application consisting of a C# console for managing tickets and vehicles, and a website displaying boarding passes, QR codes, and invoices.</div>
 
 * ### 💥 [MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/MIPS32-Battleship-Simulation)
-  > <div align="justify">First-year BUT Computer Science project built in pair with Alexis Danrée. A Battleship simulation written entirely in MIPS32 assembly, featuring random ship placement, a recursive hunting algorithm to sink ships, and real-time ASCII visualization.</div>
+  > <div align="justify">First-year BUT Computer Science project done in pairs with Alexis Danrée. Battleship simulation entirely coded in MIPS32 assembly, with random ship placement, a recursive hunting algorithm to sink the ships, and real-time ASCII visualization.</div>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          FOOTER                                           | -->
