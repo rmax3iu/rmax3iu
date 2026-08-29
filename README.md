@@ -88,7 +88,7 @@ Je suis en train de créer un site web personnel sur la station de ski Les Gets.
 <h4 align="center">Mes langages les plus utilisés</h4>
 <div align="center">
   <a href="https://github.com/rmax3iu">
-    <img height="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&langs_count=20&bg_color=ffffff&text_color=000000&hide_title=true&hide_border=true&cache_seconds=21601" />
+    <img height="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&langs_count=20&bg_color=ffffff&text_color=000000&hide_title=true&hide_border=true&cache_seconds=0" />
   </a>
 </div>
 
