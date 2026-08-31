@@ -2,7 +2,7 @@
 <!-- |                                         LANGUAGE                                          | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 <div align="right">
-  <a href="README.fr.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/🇫🇷 Français-1e3a5f?style=for-the-badge" alt="Français"/>
   </a>
   <a href="README.en.md">
@@ -91,11 +91,6 @@ Je suis en train de créer un site web personnel sur la station de ski Les Gets.
     <img height="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&langs_count=20&bg_color=ffffff&text_color=000000&hide_title=true&hide_border=true&cache_seconds=10" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmax3iu&bg_color=ffffff&color=000000&line=ff7700&point=555555&area=true&area_color=ffe8d6&hide_border=true&custom_title=Activite+de+Maxime" width="85%" alt="Graphique d'activité"/>
-</p>
-
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                           | -->
