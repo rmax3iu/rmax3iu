@@ -97,8 +97,14 @@ Je suis en train de créer un site web personnel sur la station de ski Les Gets.
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 📂 Mes Projets
 
-* ### 🌊 [Maritime Booking System](https://github.com/AgentOutsiders/maritime-booking-system)
-  > <div align="justify">Projet de 1ère année de BUT Informatique réalisé en binôme avec Alexis Danrée. Application de réservation maritime composée d'une console C# pour la gestion des billets et véhicules, et d'un site web affichant les cartes d'embarquement, les QR codes et les factures.</div>
+* ### ⚓ <a href="https://github.com/rmax3iu/Maritime-booking-system">Maritime Booking System</a>
+  > <div align="justify">Système de réservation pour une compagnie maritime fictive, réalisé en binôme. Une application console en C# permet d'effectuer une réservation et génère un fichier JSON récapitulatif, tandis qu'un site web permet de consulter la carte d'embarquement, le QR code, la facture et un tableau de bord statistique.</div>
+
+* ### 🪐 <a href="https://github.com/rmax3iu/Stargate-management-game">Stargate Management Game</a>
+  > <div align="justify">Application de gestion des missions spatiales développée en C# en trinôme. Elle permet de créer des missions, d'affecter un équipage, de suivre le budget et les dépenses, et de consulter les races et planètes de la galaxie via une base SQLite, avec un accès administrateur dédié.</div>
+
+* ### 🌐 <a href="https://github.com/rmax3iu/STP-network-simulator">STP Network Simulator</a>
+  > <div align="justify">Simulateur de réseau local codé en C, réalisé en trinôme. Il implémente le protocole STP pour éviter les boucles réseau ainsi que la commutation Ethernet avec apprentissage des adresses MAC, avec une propagation de trames simulée tick par tick en temps réel.</div>
 
 * ### 💥 [MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/MIPS32-Battleship-Simulation)
   > <div align="justify">Projet de 1ère année de BUT Informatique réalisé en binôme avec Alexis Danrée. Simulation de la Bataille Navale entièrement codée en assembleur MIPS32, avec placement aléatoire des bateaux, algorithme de chasse récursif pour couler les navires et visualisation ASCII en temps réel.</div>
