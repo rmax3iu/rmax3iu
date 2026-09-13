@@ -97,11 +97,17 @@ I'm building a personal website for the Les Gets ski resort.
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 📂 My Projects
 
-* ### 🌊 [Maritime Booking System](https://github.com/AgentOutsiders/maritime-booking-system)
-  > <div align="justify">First-year BUT Computer Science project done in pairs with Alexis Danrée. Maritime booking application consisting of a C# console for managing tickets and vehicles, and a website displaying boarding passes, QR codes, and invoices.</div>
+* ### ⚓ <a href="https://github.com/rmax3iu/Maritime-booking-system">Maritime Booking System</a>
+  > <div align="justify">Booking system for a fictional maritime company, built with a partner. A C# console application handles the booking process and generates a summary JSON file, while a companion website lets users view the boarding pass, QR code, invoice, and a statistics dashboard.</div>
+
+* ### 🪐 <a href="https://github.com/rmax3iu/Stargate-management-game">Stargate Management Game</a>
+  > <div align="justify">Space mission management application built in C# with two teammates. It allows creating missions, assigning a crew, tracking budget and expenses, and browsing the galaxy's alien races and planets through an SQLite database, with a dedicated administrator access.</div>
+
+* ### 🌐 <a href="https://github.com/rmax3iu/STP-network-simulator">STP Network Simulator</a>
+  > <div align="justify">Local network simulator written in C, built with two teammates. It implements the STP protocol to prevent network loops as well as Ethernet switching with MAC address learning, with real-time tick-by-tick frame propagation.</div>
 
 * ### 💥 [MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/MIPS32-Battleship-Simulation)
-  > <div align="justify">First-year BUT Computer Science project done in pairs with Alexis Danrée. Battleship simulation entirely coded in MIPS32 assembly, with random ship placement, a recursive hunting algorithm to sink the ships, and real-time ASCII visualization.</div>
+  > <div align="justify">First-year BUT Informatique project built with Alexis Danrée. A full Battleship simulation coded in MIPS32 assembly, featuring random ship placement, a recursive hunting algorithm to sink ships, and real-time ASCII visualization.</div>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          FOOTER                                           | -->
