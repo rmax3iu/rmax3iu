@@ -53,7 +53,7 @@ Je suis en train de créer un site web personnel sur la station de ski Les Gets.
 ## 📚 Je connais / utilise aussi
 
 ### Langages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 ### Frameworks & Bases de données
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
@@ -76,21 +76,14 @@ Je suis en train de créer un site web personnel sur la station de ski Les Gets.
  
 ## 📊 Mes statistiques GitHub
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rmax3iu&color=ff7700&style=for-the-badge&label=VUES+DU+PROFIL" alt="Vues du profil"/>
-</p>
-<p align="center">
-  <a href="https://github.com/rmax3iu">
-    <img src="https://streak-stats.demolab.com/?user=rmax3iu&theme=cyberpunk&hide_border=true" alt="GitHub Streak de Maxime"/>
-  </a>
-</p>
-
 <h4 align="center">Mes langages les plus utilisés</h4>
 <div align="center">
-  <a href="https://github.com/rmax3iu">
-    <img height="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&langs_count=20&bg_color=ffffff&text_color=000000&hide_title=true&hide_border=true&cache_seconds=10" />
-  </a>
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&hide_title=true&langs_count=8&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=rmax3iu&layout=pie&hide_title=true&langs_count=8&theme=catppuccin_latte)
+  
 </div>
+
+
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PROJECTS                                           | -->
