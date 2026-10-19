@@ -15,8 +15,9 @@
 <!-- |-------------------------------------------------------------------------------------------| -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2e6da4,100:4a9eda&text=Hi,+I'm+Maxime&height=200&fontSize=40&fontColor=ffffff" width="100%"/>
 
-First-year student in the BUT Computer Science program at IUT Robert Schuman, Illkirch.<br>
+Second-year student in the BUT Computer Science program at IUT Robert Schuman, Illkirch.<br>
 I'm 18 years old and I love coding and building things.<br>
+Passionate about the mountains, I go alpine skiing and I'm interested in mountaineering.<br>
 In my free time, I enjoy swimming and playing football.<br>
 <br>
 I'm particularly drawn to web development for its visual side.<br>
@@ -30,9 +31,10 @@ I also like recreating existing games to understand how they work.<br>
 ## 🔭 Currently
 
 ```text
+I'm working in a team of 4 on a 3-month Godot project as part of my studies.
+I'm continuing the development of my website about the Les Gets ski resort.
+I'm teaching myself Claude Code to integrate it into the way I develop.
 I'm trying to learn JavaFX.
-I'm learning Godot with the goal of creating my own game.
-I'm building a personal website for the Les Gets ski resort.
 ```
 
 <!-- |-------------------------------------------------------------------------------------------| -->
@@ -59,7 +61,7 @@ I'm building a personal website for the Les Gets ski resort.
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 
 ### Tools
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white&style=for-the-badge) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white&style=for-the-badge) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white&style=for-the-badge)
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          CONTACT                                          | -->
@@ -88,6 +90,9 @@ I'm building a personal website for the Les Gets ski resort.
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 📂 My Projects
 
+* ### ❄️ <a href="https://github.com/rmax3iu/Les-gets-website">Les Gets Website</a>
+  > <div align="justify">Personal website about the Les Gets ski resort, built on my own with HTML, CSS and JavaScript. It presents the resort's location with an interactive map made with Leaflet, the history of the ski area maps, the ski lifts, real-time weather and slope opening status through private APIs, as well as the webcams. Project still in development.</div>
+
 * ### ⚓ <a href="https://github.com/rmax3iu/Maritime-booking-system">Maritime Booking System</a>
   > <div align="justify">Booking system for a fictional maritime company, built with a partner. A C# console application handles the booking process and generates a summary JSON file, while a companion website lets users view the boarding pass, QR code, invoice, and a statistics dashboard.</div>
 
@@ -99,6 +104,9 @@ I'm building a personal website for the Les Gets ski resort.
 
 * ### 💥 [MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/MIPS32-Battleship-Simulation)
   > <div align="justify">First-year BUT Informatique project built with Alexis Danrée. A full Battleship simulation coded in MIPS32 assembly, featuring random ship placement, a recursive hunting algorithm to sink ships, and real-time ASCII visualization.</div>
+
+* ### ♣️ <a href="https://github.com/rmax3iu/Inscryption-card-game">Inscryption Card Game</a>
+  > <div align="justify">Java card game inspired by the video game Inscryption, built with a partner over 5 weeks as part of a university project. It models the game's rules: card placement, combat, sacrifices and special abilities, over three rounds with a command-line interface. The project is covered by a suite of JUnit unit tests.</div>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                          FOOTER                                           | -->
